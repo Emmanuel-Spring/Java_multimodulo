@@ -11,6 +11,7 @@
 	<groupId>com.talentyco</groupId>
 	<artifactId>project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
 	<name>project</name>
 	<description>Book Java</description>
 	<properties>
