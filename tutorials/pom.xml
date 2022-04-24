@@ -14,9 +14,15 @@
 	<packaging>pom</packaging>
 	<name>tutorials</name>
 	<description>Book Java</description>
+
 	<properties>
 		<java.version>11</java.version>
 	</properties>
+
+	<modules>
+		<module>MasterJava</module>
+	</modules>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
